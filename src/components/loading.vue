@@ -31,7 +31,7 @@
       /**
        * 开启动画效果
        */
-      opemAnimate() {
+      openAnimate() {
         this.hasAnimate = true
       },
       /**
